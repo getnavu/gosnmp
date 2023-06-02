@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gosnmp/gosnmp"
+	"github.com/getnavu/gosnmp"
 )
 
 func TestAPIConfigTypes(t *testing.T) {

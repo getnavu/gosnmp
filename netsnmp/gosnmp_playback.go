@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gosnmp/gosnmp"
+	"github.com/getnavu/gosnmp"
 )
 
 func isPlayback() bool {

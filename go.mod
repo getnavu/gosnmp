@@ -1,4 +1,4 @@
-module github.com/gosnmp/gosnmp
+module github.com/getnavu/gosnmp
 
 go 1.20
 
